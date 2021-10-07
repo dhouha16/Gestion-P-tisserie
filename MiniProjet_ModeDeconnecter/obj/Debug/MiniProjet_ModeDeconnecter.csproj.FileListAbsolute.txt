@@ -1,0 +1,56 @@
+c:\users\pc\documents\visual studio 2013\Projects\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\bin\Debug\MiniProjet_ModeDeconnecter.exe.config
+C:\Users\Pc\documents\visual studio 2013\Projects\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\bin\Debug\Patisserie.mdf
+C:\Users\Pc\documents\visual studio 2013\Projects\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\bin\Debug\Patisserie_log.ldf
+C:\Users\Pc\documents\visual studio 2013\Projects\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\bin\Debug\MiniProjet_ModeDeconnecter.exe
+C:\Users\Pc\documents\visual studio 2013\Projects\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\bin\Debug\MiniProjet_ModeDeconnecter.pdb
+C:\Users\Pc\documents\visual studio 2013\Projects\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.csprojResolveAssemblyReference.cache
+C:\Users\Pc\documents\visual studio 2013\Projects\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.Form1.resources
+C:\Users\Pc\documents\visual studio 2013\Projects\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.Gestion_de_commande.resources
+C:\Users\Pc\documents\visual studio 2013\Projects\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.Gestion_de_dessert.resources
+C:\Users\Pc\documents\visual studio 2013\Projects\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.Properties.Resources.resources
+C:\Users\Pc\documents\visual studio 2013\Projects\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.csproj.GenerateResource.Cache
+C:\Users\Pc\documents\visual studio 2013\Projects\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.exe
+C:\Users\Pc\documents\visual studio 2013\Projects\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.pdb
+C:\Users\Pc\Documents\Visual Studio 2013\Projects\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.Gestion_de_client.resources
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\bin\Debug\Patisserie.mdf
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\bin\Debug\Patisserie_log.ldf
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\bin\Debug\MiniProjet_ModeDeconnecter.exe.config
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\bin\Debug\MiniProjet_ModeDeconnecter.exe
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\bin\Debug\MiniProjet_ModeDeconnecter.pdb
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.csprojAssemblyReference.cache
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.Form1.resources
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.Gestion_de_client.resources
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.Gestion_de_commande.resources
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.Gestion_de_dessert.resources
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.Properties.Resources.resources
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.csproj.GenerateResource.cache
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.csproj.CoreCompileInputs.cache
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.exe
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.pdb
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.ligne.resources
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.ListeDessert.resources
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.Connection.resources
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.ListeCLient.resources
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.AdminInterface.resources
+C:\Users\Dhouha\Desktop\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.Interface.resources
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\bin\Debug\Patisserie.mdf
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\bin\Debug\Patisserie_log.ldf
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\bin\Debug\MiniProjet_ModeDeconnecter.exe.config
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\bin\Debug\MiniProjet_ModeDeconnecter.exe
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\bin\Debug\MiniProjet_ModeDeconnecter.pdb
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.csprojAssemblyReference.cache
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.AdminInterface.resources
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.Connection.resources
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.Form1.resources
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.Gestion_de_client.resources
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.Gestion_de_commande.resources
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.Gestion_de_dessert.resources
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.Interface.resources
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.ligne.resources
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.ListeCLient.resources
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.ListeDessert.resources
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.Properties.Resources.resources
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.csproj.GenerateResource.cache
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.csproj.CoreCompileInputs.cache
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.exe
+C:\Users\Dhouha\Desktop\3eme annee\MiniProjet_ModeDeconnecter\MiniProjet_ModeDeconnecter\obj\Debug\MiniProjet_ModeDeconnecter.pdb

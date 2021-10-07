@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{242D3D0E-0F20-45E5-B7FB-A0B42EAF2313}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MiniProjet_ModeDeconnecter</RootNamespace>
+    <AssemblyName>MiniProjet_ModeDeconnecter</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminInterface.Designer.cs">
+      <DependentUpon>AdminInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Connection.Designer.cs">
+      <DependentUpon>Connection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\Client.cs" />
+    <Compile Include="Entity\Commande.cs" />
+    <Compile Include="Entity\ConnectionBD.cs" />
+    <Compile Include="Entity\Dessert.cs" />
+    <Compile Include="Entity\ServiceClient.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion de client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion de client.Designer.cs">
+      <DependentUpon>Gestion de client.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion de commande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion de commande.Designer.cs">
+      <DependentUpon>Gestion de commande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion de dessert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion de dessert.Designer.cs">
+      <DependentUpon>Gestion de dessert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface.Designer.cs">
+      <DependentUpon>Interface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ligne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ligne.Designer.cs">
+      <DependentUpon>ligne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListeCLient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListeCLient.Designer.cs">
+      <DependentUpon>ListeCLient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListeDessert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListeDessert.Designer.cs">
+      <DependentUpon>ListeDessert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AdminInterface.resx">
+      <DependentUpon>AdminInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Connection.resx">
+      <DependentUpon>Connection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion de client.resx">
+      <DependentUpon>Gestion de client.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion de commande.resx">
+      <DependentUpon>Gestion de commande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion de dessert.resx">
+      <DependentUpon>Gestion de dessert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface.resx">
+      <DependentUpon>Interface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ligne.resx">
+      <DependentUpon>ligne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListeCLient.resx">
+      <DependentUpon>ListeCLient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListeDessert.resx">
+      <DependentUpon>ListeDessert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Patisserie.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Patisserie_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Patisserie.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\4259102566b35a2533a1f6834fefde3b1.jpg" />
+    <None Include="Resources\0_2b9452_ddb55a89_XXXL1.jpg" />
+    <None Include="Resources\d2e628e31075cc701192331e895f23802.jpg" />
+    <None Include="Resources\d2e628e31075cc701192331e895f23801.jpg" />
+    <None Include="Resources\40217384d2e3778063faac912f1353531.jpg" />
+    <None Include="Resources\40217384d2e3778063faac912f135353.jpg" />
+    <None Include="Resources\85400a9ed5fff674f82da2d064636dd4.jpg" />
+    <None Include="Resources\516301e3d3ac261acc953470770861b31.jpg" />
+    <None Include="Resources\516301e3d3ac261acc953470770861b3.jpg" />
+    <None Include="Resources\4259102566b35a2533a1f6834fefde3b.jpg" />
+    <None Include="Resources\d2e628e31075cc701192331e895f2380.jpg" />
+    <None Include="Resources\0_2b9460_bede19f1_XXXL1.jpg" />
+    <None Include="Resources\0_2b9460_bede19f1_XXXL.jpg" />
+    <None Include="Resources\3547439145c32faf84bfc328c6743308.jpg" />
+    <None Include="Resources\8e7e829762185543e2d74604c3704d39.jpg" />
+    <None Include="Resources\20110221001_cupcakes_clipart.jpg" />
+    <None Include="Resources\0_2b9452_ddb55a89_XXXL.jpg" />
+    <None Include="Resources\icons8-collaboration-50.png" />
+    <None Include="Resources\icons8-groupe-d%27utilisateurs-homme-homme-100.png" />
+    <None Include="Resources\icons8-retour-50.png" />
+    <None Include="Resources\icons8-contact-d%27affaires-100 - Copie.png" />
+    <None Include="Resources\icons8-travail-50.png" />
+    <None Include="Resources\icons8-conférence-50.png" />
+    <None Include="Resources\icons8-ajouter-la-liste-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
